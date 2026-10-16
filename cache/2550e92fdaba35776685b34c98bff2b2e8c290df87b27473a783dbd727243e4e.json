@@ -1,0 +1,1 @@
+{"model": "openai/gpt-oss-120b", "out": "{\"p_replicate\":0.34,\"key_reason\":\"The small sample (18 per group) gives low power for the critical group\u00d7condition interaction in a noisy memory task, reducing the chance of a successful replication.\"}"}

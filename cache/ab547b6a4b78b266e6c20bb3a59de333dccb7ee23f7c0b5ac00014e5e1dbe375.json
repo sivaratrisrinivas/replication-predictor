@@ -1,0 +1,1 @@
+{"model": "openai/gpt-oss-120b", "out": "{\"p_replicate\":0.46,\"key_reason\":\"Moderate sample size and clear age trend give decent power, but multiple tests and subtle dependency measure lower confidence\"}"}

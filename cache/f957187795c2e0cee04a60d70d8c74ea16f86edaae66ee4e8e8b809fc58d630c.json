@@ -1,0 +1,1 @@
+{"model": "openai/gpt-oss-120b", "out": "{\"p_replicate\":0.52,\"recognised\":false,\"key_reason\":\"The 2020 Psychological Science paper is recent and in a field with moderate replication success, so a neutral prior around 50\u201160% is appropriate\"}"}

@@ -1,0 +1,1 @@
+{"model": "openai/gpt-oss-120b", "out": "{\"p_replicate\":0.62,\"key_reason\":\"Large sample and straightforward forced-choice outcome give decent power, but the subtle time\u2011horizon manipulation and multiple analytic choices keep replication odds modest\"}"}

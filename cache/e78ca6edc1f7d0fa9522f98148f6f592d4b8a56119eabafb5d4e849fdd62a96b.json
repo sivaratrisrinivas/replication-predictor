@@ -1,0 +1,1 @@
+{"model": "openai/gpt-oss-120b", "out": "{\"p_replicate\":0.62,\"key_reason\":\"The moderate sample size and clear age\u2011related prediction give decent power, but the subtle within\u2011event dependency measure and between\u2011subject age factor add noise, making replication only somewhat likely\"}"}

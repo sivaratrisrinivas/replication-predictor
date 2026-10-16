@@ -1,0 +1,1 @@
+{"model": "openai/gpt-oss-120b", "out": "{\"p_replicate\":0.44,\"key_reason\":\"The large sample gives good power, but the subtle time\u2011horizon manipulation and reliance on a single forced\u2011choice self\u2011report make the effect moderately vulnerable to failure.\"}"}

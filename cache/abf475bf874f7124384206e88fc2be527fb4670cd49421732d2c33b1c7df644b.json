@@ -1,0 +1,1 @@
+{"model": "openai/gpt-oss-120b", "out": "{\"p_replicate\":0.66,\"key_reason\":\"The large sample and clear manipulation give decent power, while the simple forced-choice outcome limits noise, making successful replication moderately likely\"}"}

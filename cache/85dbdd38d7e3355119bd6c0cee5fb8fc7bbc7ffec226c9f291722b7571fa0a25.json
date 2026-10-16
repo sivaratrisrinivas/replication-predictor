@@ -1,0 +1,1 @@
+{"model": "openai/gpt-oss-120b", "out": "{\"p_replicate\":0.66,\"key_reason\":\"Large sample and clear manipulation with a categorical outcome give good power, making replication moderately likely\"}"}
